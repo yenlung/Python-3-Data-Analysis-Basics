@@ -4,7 +4,7 @@
 
 最容易建置環境的方式大概是用 Anaconda 安裝 Python 環境, 這會包括幾乎所有我們用到的套件。
 
-[https://www.continuum.io/downloads](Anaconda 下載點)
+[Anaconda 下載點](https://www.continuum.io/downloads)
 
 內容包括:
 
